@@ -81,7 +81,7 @@ public class main {
             
             
             System.out.println("---------------------------------------------------------");
-            System.out.println("TEXTOS ALEATÓRIOS DA MESMA CLASSE ("+texto.getClasse()+")");
+            System.out.println("TEXTOS ALEATORIOS DA MESMA CLASSE ("+texto.getClasse()+")");
             System.out.println("---------------------------------------------------------");
             sorteiaTextos(mesmaClasse, N);
             System.out.println("");
